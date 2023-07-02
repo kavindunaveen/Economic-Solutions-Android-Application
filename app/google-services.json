@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "469315359755",
+    "firebase_url": "https://crudmyapp-892bc-default-rtdb.firebaseio.com",
+    "project_id": "crudmyapp-892bc",
+    "storage_bucket": "crudmyapp-892bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469315359755:android:f8dde54b0278f26ccca30e",
+        "android_client_info": {
+          "package_name": "com.example.crudmyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469315359755-f6c103la80gmem5pgj1mmbj44c9kdeg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyYyDs_sXJx7ImnBG_a49PbOgmrV97vjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469315359755-f6c103la80gmem5pgj1mmbj44c9kdeg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
