@@ -10,5 +10,5 @@ And from this app people can do freelancing works. Students, workers anyone can 
 Job Finder is another service that provide from this application. unemployed can find foreign jobs that can work as part time/full time/remote. People can find the perfect jobs for their skills.
 Charity service is the noble service that provide from this application. In this kindhearted people can donate their part of wealth those who needed most. This function will collect Charity and distribute to hospitals, schools etc.
 
-Tools & Technologies,
-Firebase · Project Management · Android Studio · Teamwork · Kotlin
+Tools & Technologies --
+Firebase, Android Studio, Kotlin
